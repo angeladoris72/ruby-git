@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Clarify triton server boolean value (#8532)
